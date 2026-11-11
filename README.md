@@ -81,7 +81,7 @@ I am always interested in learning new technologies, exploring cybersecurity con
 
 - 📧 **Email:** 23kq1a0712.csit@gmail.com
 - 🔗 **LinkedIn:** [Kola Sathwika](https://linkedin.com/in/kola-sathwika)
-- 💻 **GitHub:** [Sathwika60](https://github.com/Sathwika60)
+
 
 <p align="center">
   <i>"Building secure solutions, one line of code at a time." 🚀</i>
